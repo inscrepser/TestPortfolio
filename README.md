@@ -18,6 +18,7 @@
 >-개발기간 : 2026/04/06 - 2026/04/06 <br />
 > -개발인원수 : 개인프로젝트 <br />
 >-사용 언어 및 도구 : HTML, Claude <br />
+<img width="1699" height="848" alt="Image" src="https://github.com/user-attachments/assets/f6d6f087-76b6-4780-bdae-b1810009ff41" />
 
 ## 2. --
 > -소개 : -- <br />
